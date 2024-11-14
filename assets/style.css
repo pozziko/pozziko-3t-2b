@@ -1,11 +1,11 @@
 :root {
-    --text-color: #DBE4EF;
+    --text-color: #000a63;
     --card-front-color: #03030385;
-    --card-back-color: #ffffff;
+    --card-back-color: #000a63;
 }
 
 body {
-    background: url('./img/scale.webp');
+    background: url('./');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
