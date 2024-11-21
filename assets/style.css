@@ -1,11 +1,11 @@
 :root {
-    --text-color: #000a63;
+    --text-color: #ffffff;
     --card-front-color: #03030385;
-    --card-back-color: #000a63;
+    --card-back-color: #ffffff;
 }
 
 body {
-    background: url('./');
+    background: url('./img/IMG_20241116_220410.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
