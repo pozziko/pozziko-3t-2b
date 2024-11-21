@@ -19,7 +19,7 @@ criaCartao(
 criaCartao(
     'Pozzo',
     'Qual é minha marca de roupas favorita?',
-    'Adias'
+    'Adidas'
 )
 
 criaCartao(
