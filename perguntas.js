@@ -25,5 +25,5 @@ criaCartao(
 criaCartao(
     'Pozzo',
     'Qual é o meu herói, anti-herói ou vilão favorito?',
-    'deadpool'
+    'Deadpool'
 )
