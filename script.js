@@ -6,10 +6,10 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Qual é o nome completo do protagonista da série Harry Potter?",
+        enunciado: "Qual é o nome completo do Pozzobom?",
         alternativas: [
             {
-                texto: "Harry James Potter",
+                texto: "João Otávio ",
                 afirmacao: "Acertou"
             },
             {
@@ -27,7 +27,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Qual é o nome da escola de magia frequentada por Harry Potter?",
+        enunciado: "Qual é a comida favorita do Pozobom?",
         alternativas: [
             {
                 texto: "Durmstrang",
@@ -48,7 +48,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Qual é o nome do professor que ensina Poções no primeiro ano de Harry em Hogwarts?",
+        enunciado: "Quantos graus de miopia e de miopia e de astigmatimo ele usa?",
         alternativas: [
             {
                 texto: "Remus Lupin",
@@ -69,28 +69,28 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Qual é o nome do feitiço usado para desarmar um oponente?",
+        enunciado: "O que vc acha do Pozobom?",
         alternativas: [
             {
-                texto: "Expelliarmus",
+                texto: "Incrivel",
                 afirmacao: "Acertou"
             },
             {
-                texto: "Estupefaça",
-                afirmacao: "Errou"
+                texto: "Perfeito",
+                afirmacao: "Acertou"
             },
             {
-                texto: "Avada Kedavra",
-                afirmacao: "Errou"
+                texto: "Deslumbrante",
+                afirmacao: "Acertou"
             },
             {
-                texto: "Lumos",
-                afirmacao: "Errou"
+                texto: "Magnífico",
+                afirmacao: "Acertou"
             }
         ]
     },
     {
-        enunciado: "Qual é o nome do animal de estimação de Harry Potter",
+        enunciado: "Qual animal de estimação o Pozzobom tem?",
         alternativas: [
             {
                 texto: "Bichento",
