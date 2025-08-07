@@ -9,10 +9,10 @@
 }
 
 body {
-    background-image: url(chapeu-seletor-hp.jpg);
-    background-size: cover;
+    background-image: url(IMG_20241116_220410.jpg);
+    background-size:contain;
     background-position: center; 
-    color: var(--cor-texto);
+    color: black;
     display: flex;
     justify-content: center;
     align-items: center;

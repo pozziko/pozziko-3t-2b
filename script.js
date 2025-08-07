@@ -9,19 +9,19 @@ const perguntas = [
         enunciado: "Qual é o nome completo do Pozzobom?",
         alternativas: [
             {
-                texto: "João Otávio ",
+                texto: "João Otávio Pozzobom Bernardes de Souza",
                 afirmacao: "Acertou"
             },
             {
-                texto: "Harry Sirius Potter",
+                texto: "João Pedro Pozobom Bernardi de Souza",
                 afirmacao: "Errou"
             },
             {
-                texto: "Harry Potter James",
+                texto: "João Otávio Pozzobon da silva",
                 afirmacao: "Errou"
             },
             {
-                texto: "Harry Dusley Potter",
+                texto: "João Otávio Augusto Pozzobon Crepaldi da Silva",
                 afirmacao: "Errou"
             }            
         ]
@@ -30,40 +30,44 @@ const perguntas = [
         enunciado: "Qual é a comida favorita do Pozobom?",
         alternativas: [
             {
-                texto: "Durmstrang",
+                texto: "Macarrão",
                 afirmacao: "Errou"
             },
             {
-                texto: "Beauxbatons",
+                texto: "Sushi",
                 afirmacao: "Errou"
             },
             {
-                texto: "Hogwarts",
+                texto: "Pizza",
+                afirmacao: "Errou"
+            },
+            {
+                texto: "Churasco",
                 afirmacao: "Acertou"
             },
             {
-                texto: "LLvermorny",
+                texto: "Hamburger",
                 afirmacao: "Errou"
             }            
         ]
     },
     {
-        enunciado: "Quantos graus de miopia e de miopia e de astigmatimo ele usa?",
+        enunciado: "Quantos graus de miopia e de astigmatimo ele tem?",
         alternativas: [
             {
-                texto: "Remus Lupin",
+                texto: "2,00/0,50",
                 afirmacao: "Errou"
             },
             {
-                texto: "Severus Snape",
+                texto: "1,75/0,75",
                 afirmacao: "Acertou"
             },
             {
-                texto: "Gilderoy Lockhart",
+                texto: "2,75/0,25",
                 afirmacao: "Errou"
             },
             {
-                texto: "Minerva McGonagall",
+                texto: "1,50/1,50",
                 afirmacao: "Errou"
             }
         ]
@@ -93,40 +97,61 @@ const perguntas = [
         enunciado: "Qual animal de estimação o Pozzobom tem?",
         alternativas: [
             {
-                texto: "Bichento",
+                texto: "Um Gato",
                 afirmacao: "Errou"
             },
             {
-                texto: "Trevor",
+                texto: "Um Cachorro",
                 afirmacao: "Errou"
             },
             {
-                texto: "Perebas",
+                texto: "Nenhum",
+                afirmacao: "Acertou"
+            },
+            {
+                texto: "Um Peixe",
+                afirmacao: "Errou"
+            }
+        ]
+    },
+    {
+        enunciado: "Qual time de futebol o Pozzobom torce?",
+        alternativas: [
+            {
+                texto: "Palmeiras lixo",
                 afirmacao: "Errou"
             },
             {
-                texto: "Edwiges",
+                texto: "Corintians timinho",
+                afirmacao: "Errou"
+            },
+            {
+                texto: "Santos sem comentarios",
+                afirmacao: "Errou"
+            },
+            {
+                texto: "São Paulo o maior do Brasil",
                 afirmacao: "Acertou"
             }
         ]
     },
     {
-        enunciado: "Qual é o nome do diretor de Hogwarts durante a maior parte dos filmes?",
+        enunciado: "Qual o dia do aniversario do Pozzobom?",
         alternativas: [
             {
-                texto: "Alvus Dumbledore",
+                texto: "04/09/2008",
                 afirmacao: "Acertou"
             },
             {
-                texto: "Severus Snape",
+                texto: "20/12/2007",
                 afirmacao: "Errou"
             },
             {
-                texto: "Minerva McGonagall",
+                texto: "28/06/2008",
                 afirmacao: "Errou"
             },
             {
-                texto: "Gellert Grindelwald",
+                texto: "13/02/2007",
                 afirmacao: "Errou"
             }
         ]
